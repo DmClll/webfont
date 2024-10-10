@@ -1,0 +1,61 @@
+/* 
+ * Prefixed by https://autoprefixer.github.io 
+ * PostCSS: v8.4.14, 
+ * Autoprefixer: v10.4.7 
+ * Browsers: last 4 version 
+ */
+
+ @font-face {
+    font-family: '29LT Bukra Sm Cd SmBd';
+    src: url('https://github.com/DmClll/webfont/raw/refs/heads/main/29LTBukraSmCd-SmBd.eot');
+    src: url('https://github.com/DmClll/webfont/raw/refs/heads/main/29LTBukraSmCd-SmBd.OTF') format('opentype'),
+        url('https://github.com/DmClll/webfont/raw/refs/heads/main/29LTBukraSmCd-SmBd.woff2') format('woff2'),
+        url('https://github.com/DmClll/webfont/raw/refs/heads/main/29LTBukraSmCd-SmBd.woff') format('woff'),
+        url('https://github.com/DmClll/webfont/raw/refs/heads/main/29LTBukraSmCd-SmBd.eot') format('embedded-opentype'),
+        url('https://github.com/DmClll/webfont/raw/refs/heads/main/29LTBukraSmCd-SmBd.ttf') format('truetype'),
+        url('https://github.com/DmClll/webfont/raw/refs/heads/main/29LTBukraSmCd-SmBd.svg') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+body {
+    font-family: '29LT Bukra Sm Cd SmBd', Arial, sans-serif;
+}
+
+h1.sw-font-family-default,
+h2.sw-font-family-default {
+    font-family: '29LT Bukra Sm Cd SmBd', Arial, sans-serif;
+}
+
+section.sw-font-family-default,
+header.sw-font-family-default,
+nav.sw-font-family-default,
+footer.sw-font-family-default,
+div.sw-font-family-default,
+span.sw-font-family-default,
+small.sw-font-family-default,
+pre.sw-font-family-default,
+p.sw-font-family-default,
+b.sw-font-family-default,
+li.sw-font-family-default,
+ul.sw-font-family-default,
+a.sw-font-family-default,
+h3.sw-font-family-default,
+h4.sw-font-family-default,
+h5.sw-font-family-default,
+h6.sw-font-family-default {
+    font-family: '29LT Bukra Sm Cd SmBd', Arial, sans-serif;
+}
+
+input.sw-font-family-default,
+textarea.sw-font-family-default {
+    font-family: '29LT Bukra Sm Cd SmBd', Arial, sans-serif;
+}
+
+.sw-font-family-default::-webkit-input-placeholder,
+.sw-font-family-default::-moz-placeholder,
+.sw-font-family-default:-ms-input-placeholder,
+.sw-font-family-default:-moz-placeholder {
+    font-family: '29LT Bukra Sm Cd SmBd', Arial, sans-serif;
+}
