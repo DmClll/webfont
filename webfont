@@ -1,0 +1,10 @@
+@font-face {
+    font-family: '29LT Bukra Sm Cd SmBd';
+    font-style: normal;
+    font-weight: 600;
+    src: local('29LT Bukra Sm Cd SmBd'),
+         url('https://your-cdn-link.com/fonts/29LTBukraSmCd-SmBd.woff2') format('woff2'),
+         url('https://your-cdn-link.com/fonts/29LTBukraSmCd-SmBd.woff') format('woff'),
+         url('https://your-cdn-link.com/fonts/29LTBukraSmCd-SmBd.ttf') format('truetype'),
+         url('https://your-cdn-link.com/fonts/29LTBukraSmCd-SmBd.eot') format('embedded-opentype');
+}
